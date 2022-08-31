@@ -8,7 +8,7 @@ The purpose of this analysis is to evaluate different metrics of the NYC Citibik
 
 ## Results:
 
-Key visualizations and descriptions can be viewed [here on Tableau](https://public.tableau.com/app/profile/theodora.nutaitis.lopez/viz/NYC_Citibike_Challenge_16574153673080/NYCCitibikeAnalysis?publish=yes)
+Key visualizations and descriptions can be viewed [on Tableau](https://public.tableau.com/app/profile/theodora.nutaitis.lopez/viz/NYC_Citibike_Challenge_16574153673080/NYCCitibikeAnalysis?publish=yes)
 
 ## Summary:
 
