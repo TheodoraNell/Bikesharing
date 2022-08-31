@@ -2,15 +2,15 @@
 
 An exploration of NYC Citibike data with Pandas and Tableau
 
-##Overview
+## Overview
 
 The purpose of this analysis is to evaluate different metrics of the NYC Citibike data and identify trends with the goal of advising the creation of a similar bikesharing company in a smaller urban market in the midwest. (In this specific case Des Moines, Iowa) The Specific metrics of focus were peak riding times, gender breakdown of riders, and duration of trips taken. 
 
-##Results:
+## Results:
 
 Key visualizations and descriptions can be viewed [here on Tableau](https://public.tableau.com/app/profile/theodora.nutaitis.lopez/viz/NYC_Citibike_Challenge_16574153673080/NYCCitibikeAnalysis?publish=yes)
 
-##Summary:
+## Summary:
 
 - Most trips are taken by male riders: 65.28% versus 25.1% for female riders. This can be further explored by isolating different age groups. IF further visualizations are created comparing The Baby Booomer (1946-1964) and Millennial (1981-1996) generations, there is a difference of around 4.5% in the number of trips taken by female riders
 
