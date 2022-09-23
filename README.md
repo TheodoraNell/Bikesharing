@@ -1,6 +1,6 @@
 # NYC Citibike Analysis
 
-https://public.tableau.com/views/NYC_Citibike_Challenge_16574153673080/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+Key visualizations Dashboard can be viewed [on Tableau](https://public.tableau.com/views/NYC_Citibike_Challenge_16574153673080/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 An exploration of NYC Citibike data with Pandas and Tableau
 
@@ -10,7 +10,7 @@ The purpose of this analysis is to evaluate different metrics of the NYC Citibik
 
 ## Results:
 
-Key visualizations and descriptions can be viewed [on Tableau](https://public.tableau.com/app/profile/theodora.nutaitis.lopez/viz/NYC_Citibike_Challenge_16574153673080/NYCCitibikeAnalysis?publish=yes)
+Key visualizations and descriptions can be viewed [on Tableau](https://public.tableau.com/views/NYC_Citibike_Challenge_16574153673080/NYCCitibikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Summary:
 
